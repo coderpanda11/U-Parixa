@@ -29,7 +29,7 @@ U-Parixa is a command-line interface (CLI) tool designed to check the security o
 
 1. Run the tool by executing the Python script:
     ```bash
-    python uparixa.py
+    python main.py
     ```
 
 2. Enter the URL you want to check when prompted:
